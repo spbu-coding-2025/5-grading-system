@@ -16,3 +16,7 @@
 	path = 5-AlexeyMashkovichUniWork
 	url = https://github.com/spbu-coding-2025/5-AlexeyMashkovichUniWork.git
 	branch = main
+[submodule "5-AnastasiyaMedentseva"]
+	path = 5-AnastasiyaMedentseva
+	url = https://github.com/spbu-coding-2025/5-AnastasiyaMedentseva.git
+	branch = main
