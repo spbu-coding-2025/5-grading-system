@@ -144,3 +144,7 @@
 	path = 5-narysh
 	url = https://github.com/spbu-coding-2025/5-narysh.git
 	branch = main
+[submodule "5-polka777"]
+	path = 5-polka777
+	url = https://github.com/spbu-coding-2025/5-polka777.git
+	branch = main
