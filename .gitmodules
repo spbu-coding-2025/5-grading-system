@@ -124,3 +124,7 @@
 	path = 5-kevetka
 	url = https://github.com/spbu-coding-2025/5-kevetka.git
 	branch = main
+[submodule "5-kijexs"]
+	path = 5-kijexs
+	url = https://github.com/spbu-coding-2025/5-kijexs.git
+	branch = main
