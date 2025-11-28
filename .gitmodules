@@ -64,3 +64,7 @@
 	path = 5-LuhTonkaYeat
 	url = https://github.com/spbu-coding-2025/5-LuhTonkaYeat.git
 	branch = main
+[submodule "5-Maxllon"]
+	path = 5-Maxllon
+	url = https://github.com/spbu-coding-2025/5-Maxllon.git
+	branch = main
