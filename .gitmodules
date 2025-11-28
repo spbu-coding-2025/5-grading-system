@@ -116,3 +116,7 @@
 	path = 5-gorbuzova
 	url = https://github.com/spbu-coding-2025/5-gorbuzova.git
 	branch = main
+[submodule "5-kabkyrie"]
+	path = 5-kabkyrie
+	url = https://github.com/spbu-coding-2025/5-kabkyrie.git
+	branch = main
