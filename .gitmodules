@@ -96,3 +96,7 @@
 	path = 5-alferukn
 	url = https://github.com/spbu-coding-2025/5-alferukn.git
 	branch = main
+[submodule "5-arinamklvch"]
+	path = 5-arinamklvch
+	url = https://github.com/spbu-coding-2025/5-arinamklvch.git
+	branch = main
