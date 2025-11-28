@@ -140,3 +140,7 @@
 	path = 5-meow79
 	url = https://github.com/spbu-coding-2025/5-meow79.git
 	branch = main
+[submodule "5-narysh"]
+	path = 5-narysh
+	url = https://github.com/spbu-coding-2025/5-narysh.git
+	branch = main
