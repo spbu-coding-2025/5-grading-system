@@ -104,3 +104,7 @@
 	path = 5-danisaev
 	url = https://github.com/spbu-coding-2025/5-danisaev.git
 	branch = main
+[submodule "5-e-leshnik"]
+	path = 5-e-leshnik
+	url = https://github.com/spbu-coding-2025/5-e-leshnik.git
+	branch = main
