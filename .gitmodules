@@ -136,3 +136,7 @@
 	path = 5-lupusarqentum
 	url = https://github.com/spbu-coding-2025/5-lupusarqentum.git
 	branch = main
+[submodule "5-meow79"]
+	path = 5-meow79
+	url = https://github.com/spbu-coding-2025/5-meow79.git
+	branch = main
