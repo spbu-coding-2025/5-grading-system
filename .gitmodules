@@ -24,3 +24,7 @@
 	path = 5-AndyBarnv
 	url = https://github.com/spbu-coding-2025/5-AndyBarnv.git
 	branch = main
+[submodule "5-Brulevich-Nikita"]
+	path = 5-Brulevich-Nikita
+	url = https://github.com/spbu-coding-2025/5-Brulevich-Nikita.git
+	branch = main
