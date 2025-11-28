@@ -72,3 +72,7 @@
 	path = 5-RannyayaAnastasia
 	url = https://github.com/spbu-coding-2025/5-RannyayaAnastasia.git
 	branch = main
+[submodule "5-Redkin-Aleksey"]
+	path = 5-Redkin-Aleksey
+	url = https://github.com/spbu-coding-2025/5-Redkin-Aleksey.git
+	branch = main
