@@ -32,3 +32,7 @@
 	path = 5-DenisPotapov0
 	url = https://github.com/spbu-coding-2025/5-DenisPotapov0.git
 	branch = main
+[submodule "5-EndlessRevolution"]
+	path = 5-EndlessRevolution
+	url = https://github.com/spbu-coding-2025/5-EndlessRevolution.git
+	branch = main
