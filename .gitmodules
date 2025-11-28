@@ -4,3 +4,7 @@
 [submodule "5-grading-tests"]
 	path = 5-grading-tests
 	url = git@github.com:spbu-coding-2025/5-grading-tests.git
+[submodule "5-A-Sozonov"]
+	path = 5-A-Sozonov
+	url = https://github.com/spbu-coding-2025/5-A-Sozonov.git
+	branch = main
