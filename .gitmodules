@@ -88,3 +88,7 @@
 	path = 5-agresh775
 	url = https://github.com/spbu-coding-2025/5-agresh775.git
 	branch = main
+[submodule "5-aleksandrgarin"]
+	path = 5-aleksandrgarin
+	url = https://github.com/spbu-coding-2025/5-aleksandrgarin.git
+	branch = main
