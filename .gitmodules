@@ -160,3 +160,7 @@
 	path = 5-Prosto-Dan
 	url = https://github.com/spbu-coding-2025/5-Prosto-Dan.git
 	branch = main
+[submodule "5-altrum06"]
+	path = 5-altrum06
+	url = https://github.com/spbu-coding-2025/5-altrum06.git
+	branch = main
