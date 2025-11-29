@@ -168,3 +168,7 @@
 	path = 5-cybulskii-vladimir
 	url = https://github.com/spbu-coding-2025/5-cybulskii-vladimir.git
 	branch = main
+[submodule "5-taymanov-bn"]
+	path = 5-taymanov-bn
+	url = https://github.com/spbu-coding-2025/5-taymanov-bn.git
+	branch = main
