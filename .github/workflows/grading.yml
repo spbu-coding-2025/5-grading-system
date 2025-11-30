@@ -10,8 +10,6 @@ jobs:
     env:
       PROBLEM: 5
       COURSE_ID: 50060
-    container:
-      image: vladimirkutuev/cmocka:latest
     steps:
       - uses: actions/checkout@v4
         with:
