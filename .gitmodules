@@ -176,3 +176,7 @@
 	path = 5-estoniec
 	url = https://github.com/spbu-coding-2025/5-estoniec.git
 	branch = main
+[submodule "5-dem0phob1a"]
+	path = 5-dem0phob1a
+	url = https://github.com/spbu-coding-2025/5-dem0phob1a.git
+	branch = main
