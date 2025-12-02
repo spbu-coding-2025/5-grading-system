@@ -188,3 +188,7 @@
 	path = 5-IvRevver
 	url = https://github.com/spbu-coding-2025/5-IvRevver.git
 	branch = main
+[submodule "5-wydfiy"]
+	path = 5-wydfiy
+	url = https://github.com/spbu-coding-2025/5-wydfiy.git
+	branch = main
