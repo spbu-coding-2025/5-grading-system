@@ -184,3 +184,7 @@
 	path = 5-tzubenin
 	url = https://github.com/spbu-coding-2025/5-tzubenin.git
 	branch = main
+[submodule "5-IvRevver"]
+	path = 5-IvRevver
+	url = https://github.com/spbu-coding-2025/5-IvRevver.git
+	branch = main
