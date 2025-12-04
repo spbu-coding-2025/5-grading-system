@@ -192,3 +192,7 @@
 	path = 5-wydfiy
 	url = https://github.com/spbu-coding-2025/5-wydfiy.git
 	branch = main
+[submodule "5-GRIGAeo"]
+	path = 5-GRIGAeo
+	url = https://github.com/spbu-coding-2025/5-GRIGAeo.git
+	branch = main
