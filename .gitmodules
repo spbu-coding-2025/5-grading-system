@@ -196,3 +196,7 @@
 	path = 5-GRIGAeo
 	url = https://github.com/spbu-coding-2025/5-GRIGAeo.git
 	branch = main
+[submodule "5-ButyugovMxx"]
+	path = 5-ButyugovMxx
+	url = https://github.com/spbu-coding-2025/5-ButyugovMxx.git
+	branch = main
