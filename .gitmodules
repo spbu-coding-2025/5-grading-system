@@ -200,3 +200,7 @@
 	path = 5-ButyugovMxx
 	url = https://github.com/spbu-coding-2025/5-ButyugovMxx.git
 	branch = main
+[submodule "5-davidgordievskij07-cmd"]
+	path = 5-davidgordievskij07-cmd
+	url = https://github.com/spbu-coding-2025/5-davidgordievskij07-cmd.git
+	branch = main
