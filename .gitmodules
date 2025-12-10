@@ -208,3 +208,7 @@
 	path = 5-Esoteria11
 	url = https://github.com/spbu-coding-2025/5-Esoteria11.git
 	branch = main
+[submodule "5-Makuhin-Egor"]
+	path = 5-Makuhin-Egor
+	url = https://github.com/spbu-coding-2025/5-Makuhin-Egor.git
+	branch = main
