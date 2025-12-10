@@ -204,3 +204,7 @@
 	path = 5-davidgordievskij07-cmd
 	url = https://github.com/spbu-coding-2025/5-davidgordievskij07-cmd.git
 	branch = main
+[submodule "5-Esoteria11"]
+	path = 5-Esoteria11
+	url = https://github.com/spbu-coding-2025/5-Esoteria11.git
+	branch = main
