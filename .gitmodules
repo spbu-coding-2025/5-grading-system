@@ -212,3 +212,7 @@
 	path = 5-Makuhin-Egor
 	url = https://github.com/spbu-coding-2025/5-Makuhin-Egor.git
 	branch = main
+[submodule "5-BarashEdition"]
+	path = 5-BarashEdition
+	url = https://github.com/spbu-coding-2025/5-BarashEdition.git
+	branch = main
