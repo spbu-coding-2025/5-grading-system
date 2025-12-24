@@ -216,3 +216,7 @@
 	path = 5-BarashEdition
 	url = https://github.com/spbu-coding-2025/5-BarashEdition.git
 	branch = main
+[submodule "5-rpu3Jlu616"]
+	path = 5-rpu3Jlu616
+	url = https://github.com/spbu-coding-2025/5-rpu3Jlu616.git
+	branch = main
