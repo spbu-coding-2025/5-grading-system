@@ -220,3 +220,7 @@
 	path = 5-rpu3Jlu616
 	url = https://github.com/spbu-coding-2025/5-rpu3Jlu616.git
 	branch = main
+[submodule "5-OZDOEV-AI"]
+	path = 5-OZDOEV-AI
+	url = git@github.com:spbu-coding-2025/5-OZDOEV-AI.git
+	branch = main
